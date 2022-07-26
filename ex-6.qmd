@@ -27,14 +27,19 @@ People in the R community have put together some beautiful slide decks using rev
 Slides: <https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide>
 Source: <https://github.com/apreshill/palmerpenguins-useR-2022>
 
+- Photos as backgrounds
+- Lists combined with two columns
+
 #### An Educator's Perspective on the Tidyverse by Mine Cetinkaya-Rundel
 
 Slides: <https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html#/title-slide>
 Source: <https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd>
 
+- Sequential reveal of code and output
+
 #### Text Recipes by Emil Hvitveldt
 
-Slides: <https://emilhvitfeldt.github.io/useR2022-textrecipes/#/section>
+Slides: <https://emilhvitfeldt.github.io/useR2022-textrecipes>
 Source: <https://github.com/EmilHvitfeldt/useR2022-textrecipes>
 
-
+- Animated title slides
