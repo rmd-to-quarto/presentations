@@ -7,20 +7,6 @@ The text and code below will serve as the content to flesh out your presentation
 
 * * *
 
----
-title: "My Quarto Presentation"
-subtitle: "Inspired by the Quarto Demo"
-format:
-  revealjs: 
-    slide-number: true
-    chalkboard: 
-      buttons: false
-    preview-links: auto
-    logo: images/quarto.png
-    css: styles.css
-    footer: <https://quarto.org>
----
-
 Hello, There
 
 This presentation will show you examples of what you can do with Quarto and [Reveal.js](https://revealjs.com), including:
