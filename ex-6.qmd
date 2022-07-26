@@ -1,0 +1,40 @@
+---
+title: "Exercise 6"
+format: html
+---
+
+There are two options to pursue for this exercise - choose your own adventure!
+
+## I. Focus on the goal
+
+Take your work from `ex-6-goal-2.html` and extend it to make a slide deck that looks like `ex-6-goal-3.html`. There are two concentrated places to find documentation on reveal in Quarto:
+
+#### The Quarto Guide
+
+<https://quarto.org/docs/presentations/revealjs/>
+
+#### The Quarto Reference
+
+<https://quarto.org/docs/reference/formats/presentations/revealjs.html>
+
+
+## II. Draw inspiration from the pros
+
+People in the R community have put together some beautiful slide decks using revealjs. Take a look at some of the slides, the source that created them, and try incorporating some of their techniques into your slide deck.
+
+#### The Untold Story of Palmer Penguins
+
+Slides: <https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide>
+Source: <https://github.com/apreshill/palmerpenguins-useR-2022>
+
+#### An Educator's Perspective on the Tidyverse by Mine Cetinkaya-Rundel
+
+Slides: <https://mine-cetinkaya-rundel.github.io/tidyperspective/talks/dagstat-2022.html#/title-slide>
+Source: <https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd>
+
+#### Text Recipes by Emil Hvitveldt
+
+Slides: <https://emilhvitfeldt.github.io/useR2022-textrecipes/#/section>
+Source: <https://github.com/EmilHvitfeldt/useR2022-textrecipes>
+
+
